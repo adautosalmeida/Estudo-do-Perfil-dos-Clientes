@@ -22,4 +22,5 @@ O objetivo é a realização de uma análise exploratória de cada variavél par
 
 **Ferramentas Utilizadas:**
 Microsoft Excel
+
 Técnicas de resumo estatísticas
